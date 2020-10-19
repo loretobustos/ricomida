@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap");
+body {
+    font-family: "Cabin", sans-serif;
+    color: #373A3C
+}
+
+.ricomida {
+    font-family: "Lobster", cursive;
+}
+
+.bg-coral {
+    background-color: #dc3545;
+}
+
+.border-grey {
+    border-color: red;
+}
+
+.parrafos {
+    font-size: 16pt;
+}
+
+.parrafoCard {
+    font-size: 13pt;
+}
+
+.paddingextra {
+    padding-top: 7rem;
+    padding-bottom: 6rem;
+}
